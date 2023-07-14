@@ -54,6 +54,7 @@ input{
 }
 #total{
     text-align: centers;
+    margin-left: 200px;
 }
 a{
     color:white;
